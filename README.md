@@ -58,4 +58,10 @@ In silence.
 
 ---
 
+This repository is intentionally minimal.
+Calipso is built in layers — not all at once.
+
+
+---
+
 © Calipso Universe
