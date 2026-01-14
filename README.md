@@ -23,11 +23,11 @@ It represents participation, culture, and continuity inside the universe.
 
 ## Current Status
 
-- 📖 Book I published
+- 📖 Book I released
 - 🌐 Official website live
-- 📄 Whitepapers released
-- 🪙 CLP token infrastructure in preparation
-- 🧩 GitHub used for transparency and documentation
+- 📄 Foundational & token documentation published
+- 🪙 CLP token architecture defined
+- 🧩 GitHub active for transparency and long-term structure
 
 ---
 
