@@ -1,90 +1,130 @@
 # Calipso Universe
 
-Calipso Universe is a story-driven mythological intellectual property (IP).
+Calipso Universe is a fully constructed mythological intellectual property.
 
-It is not a single product.  
-It is not a one-time release.  
-It is a living universe designed to expand across narrative, sound, symbols, and culture.
-
----
-
-## What is Calipso Universe?
-
-Calipso Universe is a long-term creative world built around:
-
-- Epic fantasy books and canonical lore  
-- Mythological systems, symbols, and internal cosmology  
-- Original music albums and narrative soundscapes  
-- Digital artifacts and future experiential layers  
-- A community-aligned infrastructure token (CLP) on Solana  
-
-Each element is designed to stand on its own — while also forming a coherent, evolving whole.
+It is not a concept.  
+It is not a prototype.  
+It is a complete narrative universe designed to exist across literature, sound, symbolism, and digital culture.
 
 ---
 
-## About CLP
+## The Calipso Universe
 
-CLP (Calipso) is the universe’s infrastructure token.
+Calipso Universe is an original epic fantasy saga built as a six-book series, supported by an extensive internal canon.
 
-It is **not** a financial product.  
-It is **not** an investment vehicle.
+The universe includes:
 
-CLP exists as a cultural and structural layer:
-- to support continuity,
-- to anchor participation,
-- and to connect long-term community alignment with the Calipso Universe.
+- A **six-book fantasy saga** forming the core narrative
+- A structured mythological cosmology with gods, realms, forces, and symbolic systems
+- Canonical lore texts expanding beyond the novels
+- Official original music albums composed as narrative soundscapes
+- Digital artifacts and universe-linked infrastructure
+- A cultural token layer (CLP) integrated into the universe’s long-term structure
 
-All technical, architectural, and narrative context is published transparently.
-
----
-
-## Current Status
-
-- 📖 **Book I completed** (The Silent Goddess)  
-- 🌐 **Official website live**  
-- 🎼 **Original music albums produced** (canon soundtracks & themes)  
-- 📄 **Foundational documentation published**  
-- 🪙 **CLP token architecture defined (Solana)**  
-- ⚖️ **Copyright & trademark processes in progress**  
-- 🧩 **GitHub used as a transparency & archive layer**
+Each component is internally consistent and canon-locked.
 
 ---
 
-## Documentation
+## The Book Saga
 
-The following documents are publicly available via the official website:
+The Calipso Universe saga is written as a six-book epic fantasy series.
 
-- Foundational Whitepaper  
-- CLP Infrastructure Paper  
-- CLP Tokenomics Paper  
+Book I — **The Silent Goddess** — establishes:
+- the cosmological fracture,
+- the divine silence,
+- and the foundational myth of the universe.
 
-These materials describe the universe, its structure, and its long-term intentions.
+Subsequent books expand the saga through:
+- fractured realms,
+- divine entities and opposing forces,
+- symbolic thresholds,
+- and the long descent toward revelation and return.
+
+All books belong to the same unified canon and narrative timeline.
+
+---
+
+## Music as Canon
+
+Calipso Universe includes five official music albums composed specifically for the universe.
+
+These albums are not background music.  
+They are **canonical narrative layers**, representing:
+
+- origins and descent,
+- gods and cosmic forces,
+- realms and fractured domains,
+- shattered history and conflict,
+- silence, return, and aftermath.
+
+Each track is tied to the universe’s mythology and is considered part of the official canon experience.
+
+---
+
+## Lore & Myth Architecture
+
+Beyond the novels, Calipso Universe contains a structured lore system:
+
+- mythological entities and hierarchies
+- symbolic constructs and internal logic
+- realms, thresholds, and metaphysical rules
+- narrative mechanics governing cause, silence, and return
+
+Lore is treated as canon documentation, not auxiliary material.
+
+---
+
+## CLP — Cultural Infrastructure Token
+
+CLP (Calipso) is the universe’s cultural infrastructure token built on Solana.
+
+CLP is **not** a financial product.  
+CLP is **not** an investment instrument.
+
+It exists as:
+- a symbolic participation layer,
+- a continuity mechanism,
+- and an infrastructural element connected to the Calipso Universe.
+
+CLP’s role is cultural, narrative, and structural.
+
+---
+
+## Official Platform
+
+The official Calipso Universe platform is live and functions as the central canon archive.
+
+It presents:
+- the book saga,
+- lore documentation,
+- music releases,
+- universe structure,
+- and institutional information.
 
 ---
 
 ## Purpose of This Repository
 
-This GitHub repository is intentionally minimal.
+This GitHub repository exists as a public transparency and reference layer.
 
-It exists to:
-- provide transparency,
-- act as a public reference point,
-- and document the structural foundations of the Calipso Universe.
+It documents:
+- the structural foundations of the universe,
+- official positioning,
+- and long-term architectural intent.
 
-Not everything is meant to be visible at once.  
-Some layers remain silent by design.
+Not all layers of Calipso Universe are meant to be visible at once.
+Some elements are intentionally silent.
 
 ---
 
 ## Philosophy
 
-Calipso Universe is not built to “launch”.
+Calipso Universe was not created to follow trends.
 
-It is built to **unfold**.
+It was created to endure.
 
-In layers.  
-Over time.  
-With intention.
+Stories fade.  
+Universes remain.
 
 ---
 
@@ -97,4 +137,4 @@ With intention.
 
 © Calipso Universe  
 All rights reserved.  
-This repository reflects an evolving creative universe and its public-facing foundations.
+This repository represents a complete mythological universe and its public-facing foundations.
