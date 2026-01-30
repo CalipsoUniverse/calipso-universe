@@ -123,6 +123,7 @@ Universes remain.
 ## Official Links
 
 - 🌐 Website: https://calipsouniverse.com  
+- 📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
 - 𝕏 X (Twitter): https://x.com/CalipsoUniverse  
 
 ---
