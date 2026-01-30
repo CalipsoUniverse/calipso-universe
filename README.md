@@ -1,3 +1,5 @@
+<img width="3301" height="2480" alt="Calipso Logo TM black" src="https://github.com/user-attachments/assets/7b72fa03-7573-46ae-b41e-dcb16e43533e" />
+
 # Calipso Universe
 
 **Calipso Universe** is an original, fully constructed mythological intellectual property.
