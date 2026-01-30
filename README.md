@@ -1,4 +1,4 @@
-<img width="3301" height="2480" alt="Calipso Logo TM black" src="https://github.com/user-attachments/assets/7b72fa03-7573-46ae-b41e-dcb16e43533e" />
+<img width="2240" height="972" alt="Calipso Profil 2 Logo" src="https://github.com/user-attachments/assets/31ab0b6b-ea2d-4602-88c2-879298133202" />
 
 # Calipso Universe
 
