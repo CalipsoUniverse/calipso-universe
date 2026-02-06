@@ -124,7 +124,7 @@ Universes remain.
 
 - 🌐 Website: https://calipsouniverse.com  
 - 📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
-- 𝕏 X (Twitter): https://x.com/CalipsoUniverse  
+- 𝕏 (Twitter): https://x.com/CalipsoUniverse  
 
 ---
 
