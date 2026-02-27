@@ -158,6 +158,12 @@ Universes remain.
 
 ---
 
+## Documentation
+
+- [Tokenomics](docs/tokenomics.md)
+- [Vesting Architecture](docs/vesting.md)
+- [Security Model](docs/security.md)
+
 © Calipso Universe  
 All rights reserved.
 
