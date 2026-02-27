@@ -155,6 +155,7 @@ Universes remain.
 - [Tokenomics](docs/tokenomics.md)
 - [Vesting Architecture](docs/vesting.md)
 - [Security Model](docs/security.md)
+- [Infrastructure Model](docs/infrastructure.md)
 
 ---
 
