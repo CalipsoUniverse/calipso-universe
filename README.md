@@ -1,4 +1,4 @@
-<img width="2240" height="972" alt="Calipso Profil 2 Logo" src="https://github.com/user-attachments/assets/31ab0b6b-ea2d-4602-88c2-879298133202" />
+<img width="2240" height="972" alt="Calipso Universe Banner" src="https://github.com/user-attachments/assets/31ab0b6b-ea2d-4602-88c2-879298133202" />
 
 # Calipso Universe
 
@@ -8,7 +8,7 @@ It is not a concept.
 It is not a prototype.  
 It is a canon-locked narrative universe designed for long-term existence across literature, sound, symbolism, and digital infrastructure.
 
-This repository represents the public-facing transparency layer of the Calipso Universe ecosystem.
+This repository represents the official public-facing transparency layer of the Calipso Universe ecosystem.
 
 ---
 
@@ -21,11 +21,11 @@ The universe exists across multiple interconnected layers:
 - A **six-book epic fantasy saga**
 - A coherent mythological cosmology (gods, realms, forces, symbols)
 - Canonical lore documentation beyond the novels
-- Official narrative music albums composed as part of the universe
-- Digital cultural artifacts and symbolic systems
-- A non-financial cultural infrastructure token (CLP) on Solana
+- Official narrative music albums
+- Digital symbolic systems and artifacts
+- A cultural infrastructure token (**CLP**) built on Solana
 
-All components are internally consistent and governed by a single canonical framework.
+All components operate under a single canonical framework.
 
 ---
 
@@ -34,78 +34,108 @@ All components are internally consistent and governed by a single canonical fram
 Calipso Universe is written as a six-book epic fantasy series.
 
 **Book I — *The Silent Goddess*** establishes:
-- the cosmological fracture,
-- the divine silence,
-- and the foundational myth of the universe.
 
-Subsequent volumes expand the saga through:
-- fractured realms,
-- divine entities and opposing forces,
-- symbolic thresholds,
-- and a long descent toward revelation and return.
+- the cosmological fracture  
+- the divine silence  
+- the foundational myth of the universe  
 
-All books exist within a single, immutable narrative timeline.
+Subsequent volumes expand through fractured realms, opposing forces, symbolic thresholds, and a descent toward revelation and return.
+
+All books exist within a unified and immutable narrative timeline.
 
 ---
 
 ## Music as Canon
 
-Calipso Universe includes **five official music albums** composed specifically for the universe.
+Calipso Universe includes five official narrative albums.
 
-These works are not background soundtracks.
+These are not background soundtracks.
 
-They are **canonical narrative layers**, representing:
-- origins and descent,
-- divine forces and cosmic conflict,
-- realms and metaphysical domains,
-- shattered history and silence,
-- aftermath, return, and transformation.
+They are canonical narrative layers representing:
 
-Each album is officially recognized as part of the Calipso Universe canon.
+- origin and descent  
+- divine forces and cosmic conflict  
+- metaphysical realms  
+- silence and fracture  
+- aftermath and transformation  
 
----
-
-## Lore & Myth Architecture
-
-Beyond the novels, Calipso Universe contains an extensive internal lore system:
-
-- mythological hierarchies and entities
-- symbolic constructs and narrative mechanics
-- realms, thresholds, and metaphysical rules
-- internal logic governing cause, silence, and return
-
-Lore is treated as formal canon documentation, not auxiliary material.
+Music is treated as structured canon.
 
 ---
 
-## CLP — Cultural Infrastructure Token
+## Lore Architecture
 
-**CLP (Calipso)** is the cultural infrastructure token of the Calipso Universe, built on **Solana**.
+Beyond the novels, Calipso Universe contains:
 
-CLP is **not** a financial product.  
-CLP is **not** an investment instrument.  
-CLP carries **no promises of profit, yield, or appreciation**.
+- mythological hierarchies  
+- symbolic systems  
+- metaphysical governance rules  
+- structured narrative mechanics  
+
+Lore is formal canon documentation — not auxiliary material.
+
+---
+
+# CLP — Cultural Infrastructure Layer
+
+**CLP (Calipso)** is the cultural infrastructure token of the Calipso Universe, deployed on the Solana network.
+
+CLP is not a financial instrument.  
+CLP carries no yield promises, profit guarantees, or investment claims.
 
 CLP exists as:
-- a symbolic participation layer,
-- a continuity and access mechanism,
-- and a long-term cultural infrastructure component tied to the universe.
 
-CLP’s function is narrative, structural, and cultural.
+- a participation layer  
+- an ecosystem continuity mechanism  
+- a long-term cultural infrastructure component  
+
+Its purpose is structural and symbolic within the universe.
 
 ---
 
-## Purpose of This Repository
+## Token Overview
 
-This GitHub repository exists as a **public transparency and reference layer**.
+- Network: Solana  
+- Ticker: CLP  
+- Total Supply: 100,000,000  
+- Decimals: 9  
+- Launch Model: Liquidity-based DEX launch (Meteora + Jupiter routing)
 
-It documents:
-- the structural foundations of the Calipso Universe,
-- official positioning and intent,
-- and long-term architectural direction.
+---
 
-Not all layers of the universe are intended to be visible at once.  
-Some elements are intentionally silent.
+## Security Status
+
+- Mint Authority: Revoked  
+- Freeze Authority: Revoked  
+- Metadata: Immutable  
+- Liquidity: Permanently locked at launch  
+- Authority Model: Restricted and minimized  
+
+CLP is structured for long-term infrastructure stability.
+
+---
+
+## Token Allocation
+
+- Founder Reserve — 30%  
+- Treasury — 35%  
+- Marketing & Ecosystem — 25%  
+- Liquidity — 10%  
+
+Detailed vesting architecture is documented separately.
+
+---
+
+## Transparency
+
+The following references will be published at launch:
+
+- Official Mint Address  
+- Liquidity Pool Address  
+- DEX Listing Links  
+- Tokenomics Documentation  
+
+This repository serves as a permanent transparency layer.
 
 ---
 
@@ -122,13 +152,13 @@ Universes remain.
 
 ## Official Links
 
-- 🌐 Website: https://calipsouniverse.com  
-- 📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
-- 𝕏 (Twitter): https://x.com/CalipsoUniverse  
+🌐 Website: https://calipsouniverse.com  
+📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
+𝕏 Twitter: https://x.com/CalipsoUniverse  
 
 ---
 
 © Calipso Universe  
 All rights reserved.
 
-This repository represents an original mythological universe and its official public-facing foundations.
+Calipso Universe is an original mythological intellectual property and its associated cultural infrastructure.
