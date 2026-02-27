@@ -150,19 +150,19 @@ Universes remain.
 
 ---
 
-## Official Links
-
-🌐 Website: https://calipsouniverse.com  
-📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
-𝕏 Twitter: https://x.com/CalipsoUniverse  
-
----
-
 ## Documentation
 
 - [Tokenomics](docs/tokenomics.md)
 - [Vesting Architecture](docs/vesting.md)
 - [Security Model](docs/security.md)
+
+---
+
+## Official Links
+
+🌐 Website: https://calipsouniverse.com  
+📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
+𝕏 Twitter: https://x.com/CalipsoUniverse  
 
 © Calipso Universe  
 All rights reserved.
