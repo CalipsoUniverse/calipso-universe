@@ -164,7 +164,7 @@ Universes remain.
 🌐 Website: https://calipsouniverse.com  
 📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
 𝕏 Twitter: https://x.com/CalipsoUniverse  
-🎶 https://www.tiktok.com/@calipsouniverse
+🎶 Tiktok: https://www.tiktok.com/@calipsouniverse
 
 © Calipso Universe  
 All rights reserved.
