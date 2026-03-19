@@ -161,10 +161,11 @@ Universes remain.
 
 ## Official Links
 
-🌐 Website: https://calipsouniverse.com  
-📸 Instagram: https://www.instagram.com/calipsouniversestudios/  
-𝕏 Twitter: https://x.com/CalipsoUniverse  
-🎶 Tiktok: https://www.tiktok.com/@calipsouniverse
+🌐 Website: https://calipsouniverse.com
+💼 LinkedIn: https://www.linkedin.com/company/calipso-universe
+📸 Instagram: https://www.instagram.com/calipsouniversestudios/
+𝕏 Twitter: https://x.com/CalipsoUniverse
+🎶 TikTok: https://www.tiktok.com/@calipsouniverse
 
 © Calipso Universe  
 All rights reserved.
