@@ -5,7 +5,7 @@
 - Mint Authority: Revoked
 - Freeze Authority: Revoked
 - Metadata: Immutable
-- Liquidity: Permanently locked
+- Circulation Gateways: Permanently locked
 
 ---
 
@@ -14,7 +14,7 @@
 CLP is structured with:
 
 - Reduced authority control
-- Long-term liquidity commitment
+- Long-term circulation commitment
 - Transparent tokenomics
 - Documented vesting architecture
 
