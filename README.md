@@ -99,7 +99,7 @@ Its purpose is structural and symbolic within the universe.
 - Ticker: CLP  
 - Total Supply: 100,000,000  
 - Decimals: 9  
-- Launch Model: Liquidity-based DEX launch (Meteora + Jupiter routing)
+- Launch Model: Public Network Circulation Gateway Deployment
 
 ---
 
@@ -108,7 +108,7 @@ Its purpose is structural and symbolic within the universe.
 - Mint Authority: Revoked  
 - Freeze Authority: Revoked  
 - Metadata: Immutable  
-- Liquidity: Permanently locked at launch  
+- Circulation Gateways: Permanently locked at launch  
 - Authority Model: Restricted and minimized  
 
 CLP is structured for long-term infrastructure stability.
@@ -120,7 +120,7 @@ CLP is structured for long-term infrastructure stability.
 - Founder Reserve — 30%  
 - Treasury — 35%  
 - Marketing & Ecosystem — 25%  
-- Liquidity — 10%  
+- Network Circulation & Access Pool — 10%  
 
 Detailed vesting architecture is documented separately.
 
@@ -130,9 +130,9 @@ Detailed vesting architecture is documented separately.
 
 The following references will be published at launch:
 
-- Official Mint Address  
-- Liquidity Pool Address  
-- DEX Listing Links  
+- Official Contract Address  
+- Network Circulation Pool Address  
+- Public Access Gateways  
 - Tokenomics Documentation  
 
 This repository serves as a permanent transparency layer.
