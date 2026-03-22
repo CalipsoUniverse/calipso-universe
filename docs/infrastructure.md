@@ -4,18 +4,18 @@
 
 CLP is deployed as the cultural infrastructure layer of the Calipso Universe ecosystem.
 
-The launch model, liquidity structure, and authority configuration are intentionally designed for long-term stability rather than short-term speculation.
+The launch model, circulation structure, and authority configuration are intentionally designed for long-term stability rather than short-term speculation.
 
 ---
 
 ## Launch Model
 
-CLP follows a liquidity-based decentralized launch model.
+CLP follows a decentralized network circulation launch model.
 
-- Liquidity Pool: Meteora
-- Routing Layer: Jupiter Aggregator
+- Circulation Gateway: Public Network Access
+- Routing Layer: Decentralized Network Aggregators
 - Network: Solana
-- Initial Liquidity: 10,000,000 CLP paired with SOL
+- Initial Circulation Pool: 10,000,000 CLP paired with SOL
 
 The token is not pre-sold.
 There is no private allocation round.
@@ -23,13 +23,13 @@ There is no insider distribution outside the documented allocation structure.
 
 ---
 
-## Liquidity Architecture
+## Circulation Architecture
 
-- Liquidity is permanently locked at launch.
-- No liquidity withdrawal mechanism is retained.
-- No hidden liquidity channels exist.
+- Circulation gateways are permanently locked at launch.
+- No circulation withdrawal mechanism is retained.
+- No hidden circulation channels exist.
 
-This ensures structural market continuity and mitigates rug risk.
+This ensures structural ecosystem continuity and mitigates disruption risk.
 
 ---
 
@@ -73,15 +73,15 @@ Treasury unlocks follow the documented vesting schedule.
 
 ---
 
-## Routing & Market Access
+## Network & Ecosystem Access
 
 CLP is accessible via:
 
-- Jupiter Aggregator routing
-- Direct LP interaction
-- On-chain swaps
+- Decentralized network routing
+- Direct circulation pool interaction
+- On-chain ecosystem transfers
 
-No centralized exchange dependency exists for baseline liquidity access.
+No centralized platform dependency exists for baseline network access.
 
 ---
 
@@ -91,7 +91,7 @@ The infrastructure prioritizes:
 
 - Transparency
 - Authority minimization
-- Liquidity permanence
+- Circulation permanence
 - Long-term narrative continuity
 
 CLP is designed as infrastructure, not a hype-driven asset.
@@ -102,9 +102,9 @@ CLP is designed as infrastructure, not a hype-driven asset.
 
 At launch, the following will be publicly documented:
 
-- Official Mint Address
-- Liquidity Pool Address
-- DEX Listing References
+- Official Contract Address
+- Network Circulation Pool Address
+- Public Access Gateways
 - Vesting Architecture
 - Security Configuration
 
