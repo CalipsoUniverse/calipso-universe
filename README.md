@@ -1,115 +1,15 @@
-<img width="2240" height="972" alt="Calipso Universe Banner" src="https://github.com/user-attachments/assets/31ab0b6b-ea2d-4602-88c2-879298133202" />
-
-# Calipso Universe
-
-**Calipso Universe** is an original, fully constructed mythological intellectual property.
-
-It is not a concept.  
-It is not a prototype.  
-It is a canon-locked narrative universe designed for long-term existence across literature, sound, symbolism, and digital infrastructure.
-
-This repository represents the official public-facing transparency layer of the Calipso Universe ecosystem.
-
----
-
-## Overview
-
-Calipso Universe is built as a unified epic fantasy saga supported by a structured internal canon.
-
-The universe exists across multiple interconnected layers:
-
-- A **six-book epic fantasy saga**
-- A coherent mythological cosmology (gods, realms, forces, symbols)
-- Canonical lore documentation beyond the novels
-- Official narrative music albums
-- Digital symbolic systems and artifacts
-- A cultural infrastructure token (**CLP**) built on Solana
-
-All components operate under a single canonical framework.
-
----
-
-## The Book Saga
-
-Calipso Universe is written as a six-book epic fantasy series.
-
-**Book I — *The Silent Goddess*** establishes:
-
-- the cosmological fracture  
-- the divine silence  
-- the foundational myth of the universe  
-
-Subsequent volumes expand through fractured realms, opposing forces, symbolic thresholds, and a descent toward revelation and return.
-
-All books exist within a unified and immutable narrative timeline.
-
----
-
-## Music as Canon
-
-Calipso Universe includes five official narrative albums.
-
-These are not background soundtracks.
-
-They are canonical narrative layers representing:
-
-- origin and descent  
-- divine forces and cosmic conflict  
-- metaphysical realms  
-- silence and fracture  
-- aftermath and transformation  
-
-Music is treated as structured canon.
-
----
-
-## Lore Architecture
-
-Beyond the novels, Calipso Universe contains:
-
-- mythological hierarchies  
-- symbolic systems  
-- metaphysical governance rules  
-- structured narrative mechanics  
-
-Lore is formal canon documentation — not auxiliary material.
-
----
-
-# CLP — Cultural Infrastructure Layer
-
-**CLP (Calipso)** is the cultural infrastructure token of the Calipso Universe, deployed on the Solana network.
-
-CLP is not a financial instrument.  
-CLP carries no yield promises, profit guarantees, or investment claims.
-
-CLP exists as:
-
-- a participation layer  
-- an ecosystem continuity mechanism  
-- a long-term cultural infrastructure component  
-
-Its purpose is structural and symbolic within the universe.
-
----
-
-## Token Overview
-
-- Network: Solana  
-- Ticker: CLP  
-- Total Supply: 100,000,000  
-- Decimals: 9  
-- Launch Model: Public Network Circulation Gateway Deployment
+This is the only authentic CLP token contract. Any token presented under the same name but deployed at a different address is unrelated to Calipso Universe Studios.
 
 ---
 
 ## Security Status
 
-- Mint Authority: Revoked  
-- Freeze Authority: Revoked  
-- Metadata: Immutable  
-- Circulation Gateways: Permanently locked at launch  
-- Authority Model: Restricted and minimized  
+- **Mint Authority:** Revoked  
+- **Freeze Authority:** Revoked  
+- **Update Authority:** Active for metadata only
+- **Metadata:** Immutable
+- **Circulation Gateways:** Permanently locked at launch  
+- **Vesting Protocol:** Streamflow (audited Solana-based, manual claim model)
 
 CLP is structured for long-term infrastructure stability.
 
@@ -117,25 +17,41 @@ CLP is structured for long-term infrastructure stability.
 
 ## Token Allocation
 
-- Founder Reserve — 30%  
-- Treasury — 35%  
-- Marketing & Ecosystem — 25%  
-- Network Circulation & Access Pool — 10%  
+| Allocation | Amount | Percent |
+|------------|--------|---------|
+| Founder Reserve | 30,000,000 CLP | 30% |
+| Treasury and Ecosystem | 35,000,000 CLP | 35% |
+| Marketing and Partnerships | 25,000,000 CLP | 25% |
+| Network Circulation | 10,000,000 CLP | 10% |
+| **Total** | **100,000,000 CLP** | **100%** |
 
-Detailed vesting architecture is documented separately.
+Detailed vesting architecture is documented separately. Full distribution completes at Month 74 from TGE.
+
+---
+
+## Public Wallet Addresses
+
+For full transparency and independent verification:
+
+| Wallet | Address |
+|--------|---------|
+| Founder Wallet (Hot) | `JADR9yCUto9JvRjSujs5BPzo5TFvSWC1DmHRCtQay7uz` |
+| Founder Cold Wallet (Ledger) | `FvWJH3vZmor1GNYEoVr1VNCeHjMCCFkdQjxTjqLYcwG1` |
+| Company Wallet (Hot) | `2xb9SKp9JeVUhWUXX79qSsNfkLT7PQ7jC39mZFkVfvSW` |
+| Company Cold Wallet (Ledger) | `BcmkX9a4eNQj2QWWCByamgWTfh1SKd269hWu3STfJ1Mc` |
+
+Anyone can monitor vesting contracts, manual claims, and token movements through standard Solana blockchain explorers (Solscan, SolanaFM, Solana Explorer).
 
 ---
 
 ## Transparency
 
-The following references will be published at launch:
+This repository serves as a permanent transparency layer. The following references are publicly available:
 
 - Official Contract Address  
-- Network Circulation Pool Address  
-- Public Access Gateways  
+- Public Wallet Registry  
 - Tokenomics Documentation  
-
-This repository serves as a permanent transparency layer.
+- Vesting and Security Architecture
 
 ---
 
@@ -148,6 +64,8 @@ It was created to endure.
 Stories fade.  
 Universes remain.
 
+> "The chain does not break. It only changes shape. And every morning, someone is looking."
+
 ---
 
 ## Documentation
@@ -159,6 +77,18 @@ Universes remain.
 
 ---
 
+## Authorship
+
+The Calipso Universe, including its mythology, characters, story arcs, themes, and creative direction, is the work of **Furkan Tireli**. The prose realization of the six published chronicles was developed in collaboration with AI tools, under the author's creative direction. The intellectual property remains the exclusive creation and ownership of Furkan Tireli.
+
+### Founding Team
+
+- **Furkan Tireli**, Founder, Creator, IP Owner
+- **Murat Tavli**, Co-Founder, Chief Architect
+- **Cihan Onur**, Co-Founder, Chief Operating Officer
+
+---
+
 ## Official Links
 
 - Website: [calipsouniverse.com](https://calipsouniverse.com)
@@ -166,8 +96,10 @@ Universes remain.
 - Instagram: [instagram.com/calipsouniversestudios](https://www.instagram.com/calipsouniversestudios/)
 - X / Twitter: [x.com/CalipsoUniverse](https://x.com/CalipsoUniverse)
 - TikTok: [tiktok.com/@calipsouniverse](https://www.tiktok.com/@calipsouniverse)
+- YouTube: [youtube.com/@CalipsoUniverse](https://www.youtube.com/@CalipsoUniverse)
 
-© Calipso Universe  
-All rights reserved.
+---
+
+© 2026 Calipso Universe Studios. All rights reserved.
 
 Calipso Universe is an original mythological intellectual property and its associated cultural infrastructure.
