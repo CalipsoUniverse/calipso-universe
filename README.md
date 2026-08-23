@@ -30,9 +30,9 @@ All components operate under a single canonical framework.
 ### The Numbers
 
 - **6 chronicles** completed
-- **846,000 words** across **3,204 pages** of manuscript
+- **675,000 words** across **2,594 pages** of manuscript
 - **7 gods**, **5 Realms**, **26 runes**, **12 ages**
-- **22+ named characters**, **12+ cities**, **14 entity types**
+- **30+ named characters**, **12+ cities**, **14 entity types**
 
 ---
 
@@ -42,12 +42,12 @@ Calipso Universe is written as a six-book epic fantasy series. All six chronicle
 
 | Book | Title | Pages |
 |------|-------|-------|
-| I | The Silent Goddess | 316 |
-| II | The Age of Ascension | 416 |
-| III | The Rise of the Ascended | 456 |
-| IV | The Shattering of the Veil | 522 |
-| V | The Final Balance | 636 |
-| VI | Ascension of the Last Core | 858 |
+| I | The Silent Goddess | 246 |
+| II | The Age of Ascension | 356 |
+| III | The Rise of the Ascended | 406 |
+| IV | The Shattering of the Veil | 514 |
+| V | The Final Balance | 534 |
+| VI | Ascension of the Last Core | 538 |
 
 **Book I, The Silent Goddess** establishes:
 
@@ -207,7 +207,7 @@ It was created to endure.
 Stories fade.  
 Universes remain.
 
-> "The chain does not break. It only changes shape. And every morning, someone is looking."
+> "The chain does not break. It only changes shape. And every morning, someone looks."
 
 ---
 
