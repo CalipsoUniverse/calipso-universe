@@ -6,9 +6,9 @@
 
 It is not a concept.  
 It is not a prototype.  
-It is a canon-locked narrative universe designed for long-term existence across literature, sound, symbolism, and digital infrastructure.
+It is a canon-locked narrative universe designed for long-term existence across literature, sound, and symbolism.
 
-This repository serves as the official public-facing transparency layer of the Calipso Universe ecosystem.
+This repository serves as the official public-facing reference for the Calipso Universe canon.
 
 ---
 
@@ -18,19 +18,18 @@ Calipso Universe is built as a unified epic fantasy saga supported by a structur
 
 The universe exists across multiple interconnected layers:
 
-- A **six-book epic fantasy saga**, completed and published worldwide
+- A **six-book epic fantasy saga**, completed and published
 - A coherent mythological cosmology (7 gods, 5 Realms, 26 runes, 12 ages)
 - Canonical lore documentation beyond the novels
 - Official narrative music canon ("The Sound of the Gates")
 - Digital symbolic systems and artifacts
-- A cultural infrastructure token (**CLP**) built on Solana
 
 All components operate under a single canonical framework.
 
 ### The Numbers
 
 - **6 chronicles** completed
-- **675,000 words** across **2,594 pages** of manuscript
+- **676,000 words** across **2,744 pages**
 - **7 gods**, **5 Realms**, **26 runes**, **12 ages**
 - **30+ named characters**, **12+ cities**, **14 entity types**
 
@@ -38,7 +37,7 @@ All components operate under a single canonical framework.
 
 ## The Book Saga
 
-Calipso Universe is written as a six-book epic fantasy series. All six chronicles are completed and available worldwide on Amazon, Apple Books, Kobo, and Google Play (2026 release).
+Calipso Universe is written as a six-book epic fantasy series. All six chronicles are completed and available on Amazon in Kindle, paperback, and hardcover editions, and free to read for Kindle Unlimited subscribers (2026 release).
 
 | Book | Title | Pages |
 |------|-------|-------|
@@ -46,8 +45,8 @@ Calipso Universe is written as a six-book epic fantasy series. All six chronicle
 | II | The Age of Ascension | 356 |
 | III | The Rise of the Ascended | 406 |
 | IV | The Shattering of the Veil | 514 |
-| V | The Final Balance | 534 |
-| VI | Ascension of the Last Core | 538 |
+| V | The Final Balance | 648 |
+| VI | Ascension of the Last Core | 574 |
 
 **Book I, The Silent Goddess** establishes:
 
@@ -80,6 +79,16 @@ XII. Ascension of the Last Core
 
 ---
 
+## The Symbols
+
+Twenty-six symbols run through all six chronicles. They are not decoration. Each one is a rule the world obeys, and the reader learns them the way a language is learned: by seeing them used long before anyone explains them.
+
+Above the twenty-six sits the **Golden Spiral**, Calipso's oldest mark. It is not one of the set. It stands over it.
+
+The meanings are not published here. They are written in the books.
+
+---
+
 ## Music as Canon
 
 Calipso Universe includes an official music canon, **The Sound of the Gates**, available on all major streaming platforms.
@@ -109,92 +118,16 @@ Lore is formal canon documentation, not auxiliary material.
 
 ---
 
-# CLP, Cultural Infrastructure Layer
+## Canon Protection
 
-**CLP (Calipso)** is the cultural infrastructure token of Calipso Universe, deployed on the Solana network.
+The following are permanent constraints. They apply to all current and future content, across all media, regardless of platform or partner.
 
-CLP is not a financial instrument.  
-CLP carries no yield promises, profit guarantees, or investment claims.
-
-CLP exists as:
-
-- a participation layer  
-- an ecosystem continuity mechanism  
-- a long-term cultural infrastructure component  
-
-Its purpose is structural and symbolic within the universe.
-
----
-
-## Token Overview
-
-- **Network:** Solana (SPL Standard)
-- **Ticker:** CLP  
-- **Total Supply:** 100,000,000 CLP (permanently fixed)
-- **Decimals:** 9  
-- **Initial Circulation:** 11% at launch (89% locked)
-- **Swap Venue:** Jupiter (Solana DEX aggregator). Live.
-
-### Official Contract Address
-
-```
-CLPoEzjVkT73SPnM113U9qTJMzMdevujhGisPqbDEw8D
-```
-
-This is the only authentic CLP token contract. Any token presented under the same name but deployed at a different address is unrelated to Calipso Universe Studios.
-
----
-
-## Security Status
-
-- **Mint Authority:** Revoked  
-- **Freeze Authority:** Revoked  
-- **Update Authority:** Active for metadata only
-- **Metadata:** Immutable
-- **Circulation Gateways:** Permanently locked at launch  
-- **Vesting Protocol:** Streamflow (audited Solana-based, manual claim model)
-
-CLP is structured for long-term infrastructure stability.
-
----
-
-## Token Allocation
-
-| Allocation | Amount | Percent |
-|------------|--------|---------|
-| Founder Reserve | 30,000,000 CLP | 30% |
-| Treasury and Ecosystem | 35,000,000 CLP | 35% |
-| Marketing and Partnerships | 25,000,000 CLP | 25% |
-| Network Circulation | 10,000,000 CLP | 10% |
-| **Total** | **100,000,000 CLP** | **100%** |
-
-Detailed vesting architecture is documented separately. Full distribution completes at Month 74 from TGE.
-
----
-
-## Public Wallet Addresses
-
-For full transparency and independent verification:
-
-| Wallet | Address |
-|--------|---------|
-| Founder Wallet (Hot) | `JADR9yCUto9JvRjSujs5BPzo5TFvSWC1DmHRCtQay7uz` |
-| Founder Cold Wallet (Ledger) | `FvWJH3vZmor1GNYEoVr1VNCeHjMCCFkdQjxTjqLYcwG1` |
-| Company Wallet (Hot) | `2xb9SKp9JeVUhWUXX79qSsNfkLT7PQ7jC39mZFkVfvSW` |
-| Company Cold Wallet (Ledger) | `BcmkX9a4eNQj2QWWCByamgWTfh1SKd269hWu3STfJ1Mc` |
-
-Anyone can monitor vesting contracts, manual claims, and token movements through standard Solana blockchain explorers (Solscan, SolanaFM, Solana Explorer).
-
----
-
-## Transparency
-
-This repository serves as a permanent transparency layer. The following references are publicly available:
-
-- Official Contract Address  
-- Public Wallet Registry  
-- Tokenomics Documentation  
-- Vesting and Security Architecture
+- No new main god. Seven is permanent.
+- No new main Realm. Five is permanent. Sub-layers are permitted.
+- No content explaining Zero Core. It is felt, never toured.
+- No conversion of the chains into a magic system. They are ethical infrastructure, not mana.
+- No transformation of Ascension into power fantasy. It is harmony, not levelling.
+- No correction of Main Saga events. The six chronicles are immutable.
 
 ---
 
@@ -208,15 +141,6 @@ Stories fade.
 Universes remain.
 
 > "The chain does not break. It only changes shape. And every morning, someone looks."
-
----
-
-## Documentation
-
-- [Tokenomics](docs/tokenomics.md)
-- [Vesting Architecture](docs/vesting.md)
-- [Security Model](docs/security.md)
-- [Infrastructure Model](docs/infrastructure.md)
 
 ---
 
@@ -245,4 +169,4 @@ The Calipso Universe, including its mythology, characters, story arcs, themes, a
 
 © 2026 Calipso Universe Studios. All rights reserved.
 
-Calipso Universe is an original mythological intellectual property and its associated cultural infrastructure.
+Calipso Universe is an original mythological intellectual property.
