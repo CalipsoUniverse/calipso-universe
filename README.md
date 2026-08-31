@@ -29,7 +29,7 @@ All components operate under a single canonical framework.
 ### The Numbers
 
 - **6 chronicles** completed
-- **676,000 words** across **2,744 pages**
+- **676,000 words** across **2,630 pages**
 - **7 gods**, **5 Realms**, **26 runes**, **12 ages**
 - **30+ named characters**, **12+ cities**, **14 entity types**
 
@@ -45,7 +45,7 @@ Calipso Universe is written as a six-book epic fantasy series. All six chronicle
 | II | The Age of Ascension | 356 |
 | III | The Rise of the Ascended | 406 |
 | IV | The Shattering of the Veil | 514 |
-| V | The Final Balance | 648 |
+| V | The Final Balance | 534 |
 | VI | Ascension of the Last Core | 574 |
 
 **Book I, The Silent Goddess** establishes:
