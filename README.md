@@ -21,7 +21,7 @@ The universe exists across multiple interconnected layers:
 - A **six-book epic fantasy saga**, completed and published
 - A coherent mythological cosmology (7 gods, 5 Realms, 26 runes, 12 ages)
 - Canonical lore documentation beyond the novels
-- Official narrative music canon ("The Sound of the Gates")
+- Official narrative music canon ("The Sound of the Chain")
 - Digital symbolic systems and artifacts
 
 All components operate under a single canonical framework.
